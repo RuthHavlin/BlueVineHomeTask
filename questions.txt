@@ -1,0 +1,48 @@
+q1 & q2 :
+
+unique                 475
+top       The Night Circus
+Name: title, dtype: object
+
+q3:
+
+359
+
+q4:
+
+34
+
+q6:
+
+340.0
+
+q7:
+
+5.0    48
+Name: Month, dtype: int64
+
+q8:
+
+
+
+q9:
+
+       title      Dates
+242  Dearly 2021-11-02
+
+q10:
+
+         title                                      last_modified  \
+600  Temeraire  {'type': '/type/datetime', 'value': '2021-11-0...   
+
+                           date  
+600  2021-11-02T07:30:57.214830  
+
+q11:
+
+
+
+q12:
+
+(Orbit, [{'key': '/authors/OL7468598A'}])    16
+Name: pair_publish_author, dtype: int64
